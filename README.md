@@ -1,7 +1,3 @@
-# holaMundo
-prueba
-
-=======
 # Tarea
 
 me alegro que hayas accedido a este repositorio, quiere decir que estas por buen camino.
